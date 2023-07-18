@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "centering-oxide-390013",
+  "private_key_id": "39886d28f5f4454168e482940c72ad4226b6deba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCn/GhaAR8U/U5\n1cXosCyysbY9HmpNgyyKv0Drynw5Eh8HlIYSY4PJ6V6AGVzdk0EXRiJJdh8w2Y/v\nT4kmfXThC03FdBhOqWM/4RmVvJArr5htOcu8jr+yeCDdjhaTGa4i4B9VQsM7flf7\nmexahnUmAPSVMbqm8e6MYCkCsfp3JShaq02AyBbPht5R1hZBfKTo1953nmujWRey\nefa+YvkvJJcimebzAn+j3RMYd9ZlFBm3EmfUcJczHE8QRd28QAviWu+FC8IsXrQJ\nYl+MNNXplySThn4tNbQb4MhAXCRFqouK+3DdO2suM3ANumA6+5Ud9xaNsAxaUUyH\nqCwKqsaDAgMBAAECggEAXRSgvAii6JFA3Z2zTuN/JSFgHp/+yD59nYf1tS98tNDJ\nXVc3vfCxNW5yv0IiC2ijP03QFSE0rqjGsXXxCqMCtKSy18X74Bcb/A+crGPn8bTD\n6i0zluUQonrYgQ21Fzo3cb+NzLmm5Lu6uX62rt7ShU/8qaQEeFaJt8I/quXS+4rI\nvRX2epYOpCBenTg06pQd08I8E0NF+zhM4HtHAL3avEgDkwFWo3Ym8JL1fZq3ado3\ngR/bnj+3/I4VENXwxQTebIVII2RP0n2XFq6nahMSizGj6EmNtLcynf8T0qwsQzut\nUDt7lu8XP3gdk1q3UxUTDWL1LifQTmPJbbcj/s2bmQKBgQDm/Wdq3tryF1s7zjrO\nukBJM8ABRVXtyBT5Lt4I5OjrDWY24U2aihKcjh2al9ZevfROh10ZVKZJc5nlcxnQ\nON7dM2VGX8P4iNFVqnqlW9ZkaGv/MTMBGqVwjHhwq4nVP8PSNzUuN9VJGlEvdx0o\nMl5RM0Lh0rpMk1OXavsfUt2MyQKBgQDXspHT6xMiDBBASDaoc011Mf7DLLGW/w7h\n2e9VESLDunE/Liyl4x8ViL1oanqGOSOD45Aru6sA8TI8FJkfHmQCQLdcgP6QTuuv\n32MbEAJXRKdQBPRyX/juvhd/OYIZg5emOFAMb0ApHyf5bb7Pg9bTOaW9nRhme9g5\nUw0Ln7066wKBgCCwvkEetwfKDGxjXGlDbLOvcj37zRRw258EZgIGO3yAkfW0XyI+\n5jFn34KweHNCGOBAQgnCtCHzDVWuu3l/gvL1QiD6jqaO3mlsTh026RmeuaINGXXP\niphqGOWBMWmPs6v9ijY3SqUk51Z7WhIFRtnhElcZVqpds1fbmRyuwpIZAoGABTup\n2hBb+Hl+c3DNEq0pdexul+GftWAexk/5RIET7Ne7I6NFJgkqmeUlY0EiE9uTBwIg\nX09ASNeRNm/xfxXHq15SlIX0px+jDDNJPkDXLbLWtFRKcfPuICyweT+17lSI+1lm\nZ8bTMaw11hFZjcNPFPTTFpSXIPVkO4/OQzfu6V0CgYByXzXn1sldH0724shhyqU6\nMtU8413e5vSUM9Vm9tCpdi8SaKrXGCNkQ1c5mBG53DSPcn9r/T8F+F8lAIHxawoA\nYdDvvrdqZ+lzLJJVBW2t7smuyrf76dE1BhKuy3grHnURqQU8Cjr8KwyIHcm8ZucH\np6hLmlGIVRCXY2swbwI0wA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "elasticsearch@centering-oxide-390013.iam.gserviceaccount.com",
+  "client_id": "113752140940757478826",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/elasticsearch%40centering-oxide-390013.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
